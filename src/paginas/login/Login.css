@@ -1,0 +1,55 @@
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.boxform{
+    background: linear-gradient(46deg, #133cc2 8%, #91aafa 40%) !important;
+    height: 100vh;
+}
+
+.btnLogin{
+    margin-left: 10px !important;
+    background-color: #91aafa !important;
+    color: #133cc2 !important;
+    font-weight: bold !important;
+}
+.btnLogin:hover{
+    background-color: #91aafa !important;
+}
+
+.MuiTypography-subtitle1{
+    color: #133cc2 !important;
+}
+
+#cadastre-se:hover{
+    color: #91aafa !important;
+}
+#txt-entrar{
+    color: #133cc2 !important;
+}
+
+.imagem{
+    background-image: url(https://th.bing.com/th/id/OIP.XxYHHvGKIVClbCkB6EEfYQHaEP?pid=ImgDet&rs=1.png);
+    background-repeat: no-repeat;
+     width: 100vh;
+     min-height: 100vh;
+     background-size:cover;
+     background-position:bottom;
+}
+
+.boxlogin .MuiInputBase-input{
+    color: #133cc2 !important;
+}
+
+.boxlogin .MuiFormLabel-root.Mui-focused{
+    color: #133cc2 !important;
+}
+.boxlogin .MuiOutlinedInput-notchedOutline{
+    border-color: #133cc2 !important;
+}
+
+.boxlogin .MuiOutlinedImput-root.Mui-focused {
+    border-color: #133cc2 !important;
+    border-width: 2px;
+}

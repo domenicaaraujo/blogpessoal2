@@ -1,0 +1,29 @@
+.menu{
+    background: #91aafa !important;
+    align-items: flex-end;
+}
+
+.menu-text h6{ 
+    color: #133cc2 !important;
+    margin-right: 15px !important;
+    font-size: 15px;
+}
+
+.menu-text h6:hover{ 
+    color: #133cc2!important;
+    font-weight: bold !important;
+}
+
+.MuiTypography-h6{
+    font-family: 'Quicksand', sans-serif !important;
+
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.cursor{
+    cursor: pointer;
+    color: #fff;
+}

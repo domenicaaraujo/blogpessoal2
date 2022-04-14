@@ -1,0 +1,46 @@
+.imagem2 img{
+    min-height: 99.6vh;
+    margin-right: 100px;
+    width: 65vw !important;
+}
+
+#txt-cadastrar{
+    color: #f3f5fa !important;
+
+}
+
+.btnCancelar{
+    margin-right: 10px !important;
+    background: #133cc2 !important;
+    color: #91aafa !important;
+}
+.btnCancelar:hover{
+    background: #91aafa !important;
+}
+
+.btnCadastrar{
+    margin-left: 10px !important;
+    background-color: #91aafa !important;
+    color: #133cc2 !important;
+}
+.btnCadastrar:hover{
+    background-color: #133cc2 !important;
+}
+
+
+.boxform .MuiInputBase-input{
+    color: #133cc2 !important;
+}
+
+.boxform .MuiFormLabel-root.Mui-focused{
+    color: #133cc2 !important;
+}
+.boxform .MuiOutlinedInput-notchedOutline{
+    border-color: #133cc2 !important;
+}
+
+.boxform .MuiOutlinedImput-root.Mui-focused {
+    border-color: #133cc2 !important;
+    border-width: 2px;
+}
+

@@ -1,0 +1,41 @@
+.text-decorator-none{
+    text-decoration: none; 
+}
+
+
+
+.ajust-deltema{
+    box-shadow: 1px 3px 1px #9E9E9E;
+    width: 50vw;
+    height: 20vh;
+    text-align: center;
+    justify-content: center; 
+ }
+
+ .deltema-style{
+    font-size: 20px !important;
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: bold !important;
+ }
+
+ .textSecondary{
+    font-size: 30px !important;
+    font-family: 'Quicksand', sans-serif !important;
+    font-weight: bold !important;
+ }
+
+ .botton.btn-light{
+    background: #f3c560 !important;
+    color: #30706f !important;
+}
+.botton.btn-light:hover{
+    background: #f3c56090 !important;
+}
+
+.botton.btn-dark{
+    background: #30706f !important;
+    color: #f3c560 !important;
+}
+.botton.btn-dark:hover{
+    background: #30706f90 !important;
+}

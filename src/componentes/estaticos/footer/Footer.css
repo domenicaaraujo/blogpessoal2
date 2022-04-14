@@ -1,0 +1,34 @@
+.estrutura-rodape{
+    position: absolute;
+}
+.rodape{
+    background: #91aafa !important;
+    color: #133cc2 !important;
+    height: 120px;
+}
+
+.icons{
+    color: #133cc2 !important; 
+}
+
+.icons-size{
+    font-size: 30px !important;
+}
+
+.icons :hover{
+    color: #133cc2 !important;
+}
+
+.rodape-copy{
+    background: #91aafa !important;
+    color: #133cc2 !important;
+}
+
+.foot-h5{
+    color: #133cc2 !important;
+}
+
+.text-decorator-none{
+    text-decoration: none !important;
+
+}

@@ -1,0 +1,35 @@
+.topo{
+    margin-top: 20px;
+}
+
+.cadastra-postagem{
+    padding: 100px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.largura{
+    margin: 100px 20px;
+}
+
+.h1-postagem{ 
+    color: #91aafa !important;
+    font-weight: bold !important; 
+    margin-bottom: 80px !important;
+}
+
+#descricao{
+    color: #331ca8 !important;
+}
+
+#descricao-label{
+    color: #331ca8 !important;
+}
+
+#botao-postagem{
+    padding: 15px 220px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold !important;
+    font-family: 'Quicksand', sans-serif !important;
+}

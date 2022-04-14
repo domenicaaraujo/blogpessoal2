@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+.cabecalho-home{
+    background-image: url('https://th.bing.com/th/id/OIP.XxYHHvGKIVClbCkB6EEfYQHaEP?pid=ImgDet&rs=1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 44vh;
+    width: 100vw;
+}
+
+.titles-home{
+    margin-top: 10%;
+    margin-left: 3%;
+}
+
+.tab-post .MuiAppBar-colorPrimary{
+    background: #91aafa !important;
+}
+.tab-post.MuiTab-textColorInherit:hover{
+    background: #133cc2 !important;
+}
+.tab-post .MuiTab-wrapper{
+    color: #133cc2  !important; 
+}
+
+.h3 {
+    font-family: 'Quicksand', sans-serif !important;
+    color: #f1f2f7  !important; 
+    font-weight: bold !important;
+}
+.h5{
+    font-family: 'Quicksand', sans-serif !important;
+    color: #eef0f5  !important;
+    font-weight: bold !important;
+}
+
+.MuiTypography-subtitle2{
+    font-family: 'Quicksand', sans-serif !important;
+}
+
+.tab-post{
+    background: linear-gradient(36deg, #133cc2 8%, #91aafa 80%)!important;
+    font-family: 'Quicksand', sans-serif !important;
+    color: #fff !important;
+    padding-bottom: 150px;
+}
+
+
+.btn-dark button{
+    background: #133cc2 !important;
+    color: #91aafa !important;
+}
+.btn-dark button:hover{
+    background: #0f0e0090 !important;
+}
+
+.btn-light .MuiButton-root:hover{
+    background: #0f0e0090 !important;
+}
+.btn-light button{
+    background-color: #91aafa !important;
+    color: #133cc2 !important;
+}
+
+.MuiButton-containedPrimary{
+    background-color: #91aafa !important;
+    color: #133cc2 !important;
+}
+
+

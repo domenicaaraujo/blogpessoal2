@@ -1,0 +1,28 @@
+.cadastra-tema{
+    margin-top: 150px;
+    margin-bottom: 300px;
+    padding: 100px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+
+.h1-tema{ 
+    color: #2f2b43 !important;
+    font-weight: bold !important; 
+    margin-bottom: 80px !important;
+}
+
+#descricao{
+    color: #2f2b43 !important;
+}
+
+#descricao-label{
+    color: #2f2b43 !important;
+}
+
+#botao-tema{
+
+    font-weight: bold !important;
+    font-family: 'Quicksand', sans-serif !important;
+}
+
